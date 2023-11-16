@@ -30,17 +30,13 @@ jobs:
           # uses: bduff9/use-npmrc@dbe8c5121963fc22c8825da5cfb3b58aa18e3d1b
       uses: bduff9/use-npmrc@v2.0.0
       with: 
-        dot-npmrc:
+        dot-npmrc: C:\Users\clark\.npmrc
         working-directory: .
-    - name: Get npm cache directory
-  id: npm-cache-dir
-  shell: bash
-  run: echo "dir=$(npm config get cache)" >> ${GITHUB_OUTPUT}
-
-    - uses: actions/cache@v3
+    - name: Cache
+      uses: actions/cache@v3
       id: npm-cache # use this to check for `cache-hit` ==> if: steps.npm-cache.outputs.cache-hit != 'true'
       with:
-        path: ${{ steps.npm-cache-dir.outputs.dir }}
+        path: C:\Users\clark\AppData\Roaming\npm-cache
         key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
         restore-keys: |
           ${{ runner.os }}-node-
