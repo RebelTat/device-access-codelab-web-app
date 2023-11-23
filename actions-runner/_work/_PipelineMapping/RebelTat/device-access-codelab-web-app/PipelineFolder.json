@@ -1,0 +1,12 @@
+﻿{
+  "repositoryName": "RebelTat/device-access-codelab-web-app",
+  "pipelineDirectory": "device-access-codelab-web-app",
+  "workspaceDirectory": "device-access-codelab-web-app\\device-access-codelab-web-app",
+  "repositories": {
+    "RebelTat/device-access-codelab-web-app": {
+      "repositoryPath": "device-access-codelab-web-app\\device-access-codelab-web-app",
+      "lastRunOn": "11/15/2023 15:28:30 -08:00"
+    }
+  },
+  "lastRunOn": "11/15/2023 16:50:45 -08:00"
+}

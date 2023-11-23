@@ -16,7 +16,7 @@ limitations under the License.
 
 // Authentication Constants:
 const OAUTH_SCOPE = "https://www.googleapis.com/auth/sdm.service";
-const SERVER_URI = "https://[GCP-Project-Id].web.app";
+const SERVER_URI = "https://device-access-codelab-we-410e9.web.app/";
 const REDIRECT_URI = SERVER_URI + "/auth";
 const PROXY_URI = SERVER_URI + "/proxy";
 
@@ -80,7 +80,7 @@ function handleAuth () {
   if (window.location.pathname.startsWith("/auth")) {
     console.log("/auth detected!");
     
-    // Retreive query parameters from url.
+    // Retrieve query parameters from url.
     var queryparams = window.location.search.split("&");     
     
     // Extract key-value pairs from parameters.

@@ -1,0 +1,341 @@
+[2023-11-15 23:27:05Z INFO HostContext] No proxy settings were found based on environmental variables (http_proxy/https_proxy/HTTP_PROXY/HTTPS_PROXY)
+[2023-11-15 23:27:05Z INFO HostContext] Well known directory 'Bin': 'C:\Users\clark\AndroidStudioProjects\device-access-codelab-web-app\actions-runner\bin'
+[2023-11-15 23:27:05Z INFO HostContext] Well known directory 'Root': 'C:\Users\clark\AndroidStudioProjects\device-access-codelab-web-app\actions-runner'
+[2023-11-15 23:27:05Z INFO HostContext] Well known config file 'Credentials': 'C:\Users\clark\AndroidStudioProjects\device-access-codelab-web-app\actions-runner\.credentials'
+[2023-11-15 23:27:05Z INFO HostContext] Well known directory 'Bin': 'C:\Users\clark\AndroidStudioProjects\device-access-codelab-web-app\actions-runner\bin'
+[2023-11-15 23:27:05Z INFO HostContext] Well known directory 'Root': 'C:\Users\clark\AndroidStudioProjects\device-access-codelab-web-app\actions-runner'
+[2023-11-15 23:27:05Z INFO HostContext] Well known config file 'Runner': 'C:\Users\clark\AndroidStudioProjects\device-access-codelab-web-app\actions-runner\.runner'
+[2023-11-15 23:27:05Z INFO Listener] Runner is built for Windows (X64) - win-x64.
+[2023-11-15 23:27:05Z INFO Listener] RuntimeInformation: Microsoft Windows 10.0.22631.
+[2023-11-15 23:27:05Z INFO Listener] Version: 2.311.0
+[2023-11-15 23:27:05Z INFO Listener] Commit: f5cff308c83746dddd726a9a28a1583872305aaa
+[2023-11-15 23:27:05Z INFO Listener] Culture: en-US
+[2023-11-15 23:27:05Z INFO Listener] UI Culture: en-US
+[2023-11-15 23:27:05Z INFO HostContext] Well known directory 'Bin': 'C:\Users\clark\AndroidStudioProjects\device-access-codelab-web-app\actions-runner\bin'
+[2023-11-15 23:27:05Z INFO HostContext] Well known directory 'Root': 'C:\Users\clark\AndroidStudioProjects\device-access-codelab-web-app\actions-runner'
+[2023-11-15 23:27:05Z INFO Listener] Validating directory permissions for: 'C:\Users\clark\AndroidStudioProjects\device-access-codelab-web-app\actions-runner'
+[2023-11-15 23:27:05Z INFO CommandLineParser] Parse
+[2023-11-15 23:27:05Z INFO CommandLineParser] Parsing 1 args
+[2023-11-15 23:27:05Z INFO CommandLineParser] parsing argument
+[2023-11-15 23:27:05Z INFO CommandLineParser] HasArgs: False
+[2023-11-15 23:27:05Z INFO CommandLineParser] Adding Command: run
+[2023-11-15 23:27:05Z INFO Listener] Arguments parsed
+[2023-11-15 23:27:05Z INFO Runner] ExecuteCommand
+[2023-11-15 23:27:05Z INFO ConfigurationStore] currentAssemblyLocation: C:\Users\clark\AndroidStudioProjects\device-access-codelab-web-app\actions-runner\bin\Runner.Listener.dll
+[2023-11-15 23:27:05Z INFO HostContext] Well known directory 'Bin': 'C:\Users\clark\AndroidStudioProjects\device-access-codelab-web-app\actions-runner\bin'
+[2023-11-15 23:27:05Z INFO ConfigurationStore] binPath: C:\Users\clark\AndroidStudioProjects\device-access-codelab-web-app\actions-runner\bin
+[2023-11-15 23:27:05Z INFO HostContext] Well known directory 'Bin': 'C:\Users\clark\AndroidStudioProjects\device-access-codelab-web-app\actions-runner\bin'
+[2023-11-15 23:27:05Z INFO HostContext] Well known directory 'Root': 'C:\Users\clark\AndroidStudioProjects\device-access-codelab-web-app\actions-runner'
+[2023-11-15 23:27:05Z INFO ConfigurationStore] RootFolder: C:\Users\clark\AndroidStudioProjects\device-access-codelab-web-app\actions-runner
+[2023-11-15 23:27:05Z INFO HostContext] Well known directory 'Bin': 'C:\Users\clark\AndroidStudioProjects\device-access-codelab-web-app\actions-runner\bin'
+[2023-11-15 23:27:05Z INFO HostContext] Well known directory 'Root': 'C:\Users\clark\AndroidStudioProjects\device-access-codelab-web-app\actions-runner'
+[2023-11-15 23:27:05Z INFO HostContext] Well known config file 'Runner': 'C:\Users\clark\AndroidStudioProjects\device-access-codelab-web-app\actions-runner\.runner'
+[2023-11-15 23:27:05Z INFO ConfigurationStore] ConfigFilePath: C:\Users\clark\AndroidStudioProjects\device-access-codelab-web-app\actions-runner\.runner
+[2023-11-15 23:27:05Z INFO HostContext] Well known directory 'Bin': 'C:\Users\clark\AndroidStudioProjects\device-access-codelab-web-app\actions-runner\bin'
+[2023-11-15 23:27:05Z INFO HostContext] Well known directory 'Root': 'C:\Users\clark\AndroidStudioProjects\device-access-codelab-web-app\actions-runner'
+[2023-11-15 23:27:05Z INFO HostContext] Well known config file 'Credentials': 'C:\Users\clark\AndroidStudioProjects\device-access-codelab-web-app\actions-runner\.credentials'
+[2023-11-15 23:27:05Z INFO ConfigurationStore] CredFilePath: C:\Users\clark\AndroidStudioProjects\device-access-codelab-web-app\actions-runner\.credentials
+[2023-11-15 23:27:05Z INFO HostContext] Well known directory 'Bin': 'C:\Users\clark\AndroidStudioProjects\device-access-codelab-web-app\actions-runner\bin'
+[2023-11-15 23:27:05Z INFO HostContext] Well known directory 'Root': 'C:\Users\clark\AndroidStudioProjects\device-access-codelab-web-app\actions-runner'
+[2023-11-15 23:27:05Z INFO HostContext] Well known config file 'MigratedCredentials': 'C:\Users\clark\AndroidStudioProjects\device-access-codelab-web-app\actions-runner\.credentials_migrated'
+[2023-11-15 23:27:05Z INFO ConfigurationStore] MigratedCredFilePath: C:\Users\clark\AndroidStudioProjects\device-access-codelab-web-app\actions-runner\.credentials_migrated
+[2023-11-15 23:27:05Z INFO HostContext] Well known directory 'Bin': 'C:\Users\clark\AndroidStudioProjects\device-access-codelab-web-app\actions-runner\bin'
+[2023-11-15 23:27:05Z INFO HostContext] Well known directory 'Root': 'C:\Users\clark\AndroidStudioProjects\device-access-codelab-web-app\actions-runner'
+[2023-11-15 23:27:05Z INFO HostContext] Well known config file 'Service': 'C:\Users\clark\AndroidStudioProjects\device-access-codelab-web-app\actions-runner\.service'
+[2023-11-15 23:27:05Z INFO ConfigurationStore] ServiceConfigFilePath: C:\Users\clark\AndroidStudioProjects\device-access-codelab-web-app\actions-runner\.service
+[2023-11-15 23:27:05Z INFO CommandSettings] Flag 'help': 'False'
+[2023-11-15 23:27:05Z INFO CommandSettings] Flag 'version': 'False'
+[2023-11-15 23:27:05Z INFO CommandSettings] Flag 'commit': 'False'
+[2023-11-15 23:27:05Z INFO CommandSettings] Flag 'check': 'False'
+[2023-11-15 23:27:05Z INFO CommandSettings] Command 'configure': 'False'
+[2023-11-15 23:27:05Z INFO CommandSettings] Command 'remove': 'False'
+[2023-11-15 23:27:05Z INFO CommandSettings] Command 'warmup': 'False'
+[2023-11-15 23:27:05Z INFO ConfigurationManager] LoadSettings
+[2023-11-15 23:27:05Z INFO ConfigurationStore] IsConfigured()
+[2023-11-15 23:27:05Z INFO ConfigurationStore] IsConfigured: True
+[2023-11-15 23:27:05Z INFO ConfigurationManager] Is configured: True
+[2023-11-15 23:27:05Z INFO ConfigurationStore] Read setting file: 319 chars
+[2023-11-15 23:27:05Z INFO ConfigurationManager] Settings Loaded
+[2023-11-15 23:27:05Z INFO ConfigurationStore] IsServiceConfigured()
+[2023-11-15 23:27:05Z INFO ConfigurationStore] IsServiceConfigured: True
+[2023-11-15 23:27:05Z INFO CommandSettings] Command 'run': 'True'
+[2023-11-15 23:27:05Z INFO ConfigurationStore] IsConfigured()
+[2023-11-15 23:27:05Z INFO ConfigurationStore] IsConfigured: True
+[2023-11-15 23:27:05Z INFO ConfigurationManager] Is configured: True
+[2023-11-15 23:27:05Z INFO Runner] Try determine runner startup type base on console redirects.
+[2023-11-15 23:27:05Z INFO Runner] Set runner startup type - Manual
+[2023-11-15 23:27:05Z INFO CommandSettings] Flag 'once': 'False'
+[2023-11-15 23:27:05Z INFO CommandSettings] Flag 'once': 'False'
+[2023-11-15 23:27:05Z INFO Runner] RunAsync
+[2023-11-15 23:27:05Z INFO ConfigurationManager] LoadSettings
+[2023-11-15 23:27:05Z INFO ConfigurationStore] IsConfigured()
+[2023-11-15 23:27:05Z INFO ConfigurationStore] IsConfigured: True
+[2023-11-15 23:27:05Z INFO ConfigurationManager] Is configured: True
+[2023-11-15 23:27:05Z INFO ConfigurationManager] Settings Loaded
+[2023-11-15 23:27:05Z INFO MessageListener] {
+  "AgentId": 3,
+  "AgentName": "SHITBOX",
+  "PoolId": 1,
+  "PoolName": "Default",
+  "ServerUrl": "https://pipelinesghubeus5.actions.githubusercontent.com/2gCgI88K8a1MoGKxzctIDkkvvfw0s7kdlkDpCy0J6Ynajzs0li/",
+  "GitHubUrl": "https://github.com/RebelTat/device-access-codelab-web-app",
+  "WorkFolder": "_work"
+}
+[2023-11-15 23:27:05Z INFO MessageListener] Loading Credentials
+[2023-11-15 23:27:05Z INFO ConfigurationStore] HasCredentials()
+[2023-11-15 23:27:05Z INFO ConfigurationStore] stored True
+[2023-11-15 23:27:05Z INFO CredentialManager] GetCredentialProvider
+[2023-11-15 23:27:05Z INFO CredentialManager] Creating type OAuth
+[2023-11-15 23:27:05Z INFO CredentialManager] Creating credential type: OAuth
+[2023-11-15 23:27:05Z INFO HostContext] Well known directory 'Bin': 'C:\Users\clark\AndroidStudioProjects\device-access-codelab-web-app\actions-runner\bin'
+[2023-11-15 23:27:05Z INFO HostContext] Well known directory 'Root': 'C:\Users\clark\AndroidStudioProjects\device-access-codelab-web-app\actions-runner'
+[2023-11-15 23:27:05Z INFO HostContext] Well known config file 'RSACredentials': 'C:\Users\clark\AndroidStudioProjects\device-access-codelab-web-app\actions-runner\.credentials_rsaparams'
+[2023-11-15 23:27:05Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\clark\AndroidStudioProjects\device-access-codelab-web-app\actions-runner\.credentials_rsaparams
+[2023-11-15 23:27:05Z INFO MessageListener] Attempt to create session.
+[2023-11-15 23:27:05Z INFO MessageListener] Connecting to the Runner Server...
+[2023-11-15 23:27:05Z INFO RunnerServer] EstablishVssConnection
+[2023-11-15 23:27:05Z INFO RunnerServer] Establish connection with 100 seconds timeout.
+[2023-11-15 23:27:05Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2023-11-15 23:27:05Z INFO RunnerServer] EstablishVssConnection
+[2023-11-15 23:27:05Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2023-11-15 23:27:05Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2023-11-15 23:27:05Z INFO RunnerServer] EstablishVssConnection
+[2023-11-15 23:27:05Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2023-11-15 23:27:05Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2023-11-15 23:27:05Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2023-11-15 23:27:05Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2023-11-15 23:27:05Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2023-11-15 23:27:06Z INFO MessageListener] VssConnection created
+[2023-11-15 23:27:06Z INFO Terminal] WRITE LINE: 
+[2023-11-15 23:27:06Z INFO Terminal] WRITE LINE: 
+[2023-11-15 23:27:06Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\clark\AndroidStudioProjects\device-access-codelab-web-app\actions-runner\.credentials_rsaparams
+[2023-11-15 23:27:06Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\clark\AndroidStudioProjects\device-access-codelab-web-app\actions-runner\.credentials_rsaparams
+[2023-11-15 23:27:06Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2023-11-15 23:27:06Z INFO MessageListener] Session created.
+[2023-11-15 23:27:06Z INFO Terminal] WRITE LINE: Current runner version: '2.311.0'
+[2023-11-15 23:27:06Z INFO Terminal] WRITE LINE: 2023-11-15 23:27:06Z: Listening for Jobs
+[2023-11-15 23:27:06Z INFO JobDispatcher] Set runner/worker IPC timeout to 30 seconds.
+[2023-11-15 23:28:26Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\clark\AndroidStudioProjects\device-access-codelab-web-app\actions-runner\.credentials_rsaparams
+[2023-11-15 23:28:26Z INFO MessageListener] Message '1' received from session 'c0b7c8d3-9692-4fb6-80bd-b1f2b7628820'.
+[2023-11-15 23:28:26Z INFO Runner] Received job message of length 24594 from service, with hash '375338596282441144a7f20191b4363a96e05b43d346030cedca645b211231f1'
+[2023-11-15 23:28:26Z INFO JobDispatcher] Job request 7 for plan d4020451-070c-4d2d-b267-8eb7ed91fab5 job 1688b4be-3760-56c4-0657-72178d884855 received.
+[2023-11-15 23:28:26Z INFO JobDispatcher] Pull OrchestrationId d4020451-070c-4d2d-b267-8eb7ed91fab5.build._10_x from JWT claims
+[2023-11-15 23:28:26Z INFO Terminal] WRITE LINE: 2023-11-15 23:28:26Z: Running job: build (10.x)
+[2023-11-15 23:28:26Z INFO JobDispatcher] Start renew job request 7 for job 1688b4be-3760-56c4-0657-72178d884855.
+[2023-11-15 23:28:26Z INFO JobDispatcher] Successfully renew job request 7, job is valid till 11/15/2023 11:38:26 PM
+[2023-11-15 23:28:26Z INFO HostContext] Well known directory 'Bin': 'C:\Users\clark\AndroidStudioProjects\device-access-codelab-web-app\actions-runner\bin'
+[2023-11-15 23:28:26Z INFO ProcessInvokerWrapper] Starting process:
+[2023-11-15 23:28:26Z INFO ProcessInvokerWrapper]   File name: 'C:\Users\clark\AndroidStudioProjects\device-access-codelab-web-app\actions-runner\bin\Runner.Worker.exe'
+[2023-11-15 23:28:26Z INFO ProcessInvokerWrapper]   Arguments: 'spawnclient 2004 1768'
+[2023-11-15 23:28:26Z INFO ProcessInvokerWrapper]   Working directory: 'C:\Users\clark\AndroidStudioProjects\device-access-codelab-web-app\actions-runner\bin'
+[2023-11-15 23:28:26Z INFO ProcessInvokerWrapper]   Require exit code zero: 'False'
+[2023-11-15 23:28:26Z INFO ProcessInvokerWrapper]   Encoding web name:  ; code page: ''
+[2023-11-15 23:28:26Z INFO ProcessInvokerWrapper]   Force kill process on cancellation: 'True'
+[2023-11-15 23:28:26Z INFO ProcessInvokerWrapper]   Redirected STDIN: 'False'
+[2023-11-15 23:28:26Z INFO ProcessInvokerWrapper]   Persist current code page: 'False'
+[2023-11-15 23:28:26Z INFO ProcessInvokerWrapper]   Keep redirected STDIN open: 'False'
+[2023-11-15 23:28:26Z INFO ProcessInvokerWrapper]   High priority process: 'True'
+[2023-11-15 23:28:27Z INFO ProcessInvokerWrapper] Process started with process id 12136, waiting for process exit.
+[2023-11-15 23:28:27Z INFO JobDispatcher] Send job request message to worker for job 1688b4be-3760-56c4-0657-72178d884855.
+[2023-11-15 23:28:28Z INFO ProcessChannel] Sending message of length 24594, with hash '375338596282441144a7f20191b4363a96e05b43d346030cedca645b211231f1'
+[2023-11-15 23:28:29Z INFO JobNotification] Entering JobStarted Notification
+[2023-11-15 23:28:29Z INFO JobNotification] Entering StartMonitor
+[2023-11-15 23:29:28Z INFO JobDispatcher] Successfully renew job request 7, job is valid till 11/15/2023 11:39:27 PM
+[2023-11-15 23:30:28Z INFO JobDispatcher] Successfully renew job request 7, job is valid till 11/15/2023 11:40:27 PM
+[2023-11-15 23:30:45Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2023-11-15 23:30:45Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2023-11-15 23:30:45Z INFO ProcessInvokerWrapper] Finished process 12136 with exit code 100, and elapsed time 00:02:18.5728963.
+[2023-11-15 23:30:45Z INFO JobDispatcher] Worker finished for job 1688b4be-3760-56c4-0657-72178d884855. Code: 100
+[2023-11-15 23:30:45Z INFO JobDispatcher] finish job request for job 1688b4be-3760-56c4-0657-72178d884855 with result: Succeeded
+[2023-11-15 23:30:45Z INFO Terminal] WRITE LINE: 2023-11-15 23:30:45Z: Job build (10.x) completed with result: Succeeded
+[2023-11-15 23:30:45Z INFO JobDispatcher] Stop renew job request for job 1688b4be-3760-56c4-0657-72178d884855.
+[2023-11-15 23:30:45Z INFO JobDispatcher] job renew has been cancelled, stop renew job request 7.
+[2023-11-15 23:30:45Z INFO JobNotification] Entering JobCompleted Notification
+[2023-11-15 23:30:45Z INFO JobNotification] Entering EndMonitor
+[2023-11-15 23:58:32Z INFO MessageListener] No message retrieved from session 'c0b7c8d3-9692-4fb6-80bd-b1f2b7628820' within last 30 minutes.
+[2023-11-16 00:12:32Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\clark\AndroidStudioProjects\device-access-codelab-web-app\actions-runner\.credentials_rsaparams
+[2023-11-16 00:12:32Z INFO MessageListener] Message '2' received from session 'c0b7c8d3-9692-4fb6-80bd-b1f2b7628820'.
+[2023-11-16 00:12:32Z INFO Runner] Received job message of length 26507 from service, with hash '0cf4e58a1d721e916a18078289d78b2006d9242c79c58085c7bddf8fed0d217a'
+[2023-11-16 00:12:32Z INFO JobDispatcher] Job request 8 for plan dcc1805e-1997-41c0-be2e-4a314521771a job 1688b4be-3760-56c4-0657-72178d884855 received.
+[2023-11-16 00:12:32Z INFO JobDispatcher] Pull OrchestrationId dcc1805e-1997-41c0-be2e-4a314521771a.build._10_x from JWT claims
+[2023-11-16 00:12:32Z INFO JobDispatcher] Job request 1688b4be-3760-56c4-0657-72178d884855 processed succeed.
+[2023-11-16 00:12:32Z INFO Terminal] WRITE LINE: 2023-11-16 00:12:32Z: Running job: build (10.x)
+[2023-11-16 00:12:32Z INFO JobDispatcher] Start renew job request 8 for job 1688b4be-3760-56c4-0657-72178d884855.
+[2023-11-16 00:12:32Z INFO JobDispatcher] Successfully renew job request 8, job is valid till 11/16/2023 12:22:31 AM
+[2023-11-16 00:12:32Z INFO HostContext] Well known directory 'Bin': 'C:\Users\clark\AndroidStudioProjects\device-access-codelab-web-app\actions-runner\bin'
+[2023-11-16 00:12:32Z INFO ProcessInvokerWrapper] Starting process:
+[2023-11-16 00:12:32Z INFO ProcessInvokerWrapper]   File name: 'C:\Users\clark\AndroidStudioProjects\device-access-codelab-web-app\actions-runner\bin\Runner.Worker.exe'
+[2023-11-16 00:12:32Z INFO ProcessInvokerWrapper]   Arguments: 'spawnclient 2532 2528'
+[2023-11-16 00:12:32Z INFO ProcessInvokerWrapper]   Working directory: 'C:\Users\clark\AndroidStudioProjects\device-access-codelab-web-app\actions-runner\bin'
+[2023-11-16 00:12:32Z INFO ProcessInvokerWrapper]   Require exit code zero: 'False'
+[2023-11-16 00:12:32Z INFO ProcessInvokerWrapper]   Encoding web name:  ; code page: ''
+[2023-11-16 00:12:32Z INFO ProcessInvokerWrapper]   Force kill process on cancellation: 'True'
+[2023-11-16 00:12:32Z INFO ProcessInvokerWrapper]   Redirected STDIN: 'False'
+[2023-11-16 00:12:32Z INFO ProcessInvokerWrapper]   Persist current code page: 'False'
+[2023-11-16 00:12:32Z INFO ProcessInvokerWrapper]   Keep redirected STDIN open: 'False'
+[2023-11-16 00:12:32Z INFO ProcessInvokerWrapper]   High priority process: 'True'
+[2023-11-16 00:12:32Z INFO ProcessInvokerWrapper] Process started with process id 29604, waiting for process exit.
+[2023-11-16 00:12:32Z INFO JobDispatcher] Send job request message to worker for job 1688b4be-3760-56c4-0657-72178d884855.
+[2023-11-16 00:12:32Z INFO ProcessChannel] Sending message of length 26507, with hash '0cf4e58a1d721e916a18078289d78b2006d9242c79c58085c7bddf8fed0d217a'
+[2023-11-16 00:12:33Z INFO JobNotification] Entering JobStarted Notification
+[2023-11-16 00:12:33Z INFO JobNotification] Entering StartMonitor
+[2023-11-16 00:12:57Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2023-11-16 00:12:57Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2023-11-16 00:12:57Z INFO ProcessInvokerWrapper] Finished process 29604 with exit code 102, and elapsed time 00:00:25.0972850.
+[2023-11-16 00:12:57Z INFO JobDispatcher] Worker finished for job 1688b4be-3760-56c4-0657-72178d884855. Code: 102
+[2023-11-16 00:12:57Z INFO JobDispatcher] finish job request for job 1688b4be-3760-56c4-0657-72178d884855 with result: Failed
+[2023-11-16 00:12:57Z INFO Terminal] WRITE LINE: 2023-11-16 00:12:57Z: Job build (10.x) completed with result: Failed
+[2023-11-16 00:12:57Z INFO JobDispatcher] Stop renew job request for job 1688b4be-3760-56c4-0657-72178d884855.
+[2023-11-16 00:12:57Z INFO JobDispatcher] job renew has been cancelled, stop renew job request 8.
+[2023-11-16 00:12:57Z INFO JobNotification] Entering JobCompleted Notification
+[2023-11-16 00:12:57Z INFO JobNotification] Entering EndMonitor
+[2023-11-16 00:22:35Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\clark\AndroidStudioProjects\device-access-codelab-web-app\actions-runner\.credentials_rsaparams
+[2023-11-16 00:22:35Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2023-11-16 00:36:45Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\clark\AndroidStudioProjects\device-access-codelab-web-app\actions-runner\.credentials_rsaparams
+[2023-11-16 00:36:45Z INFO MessageListener] Message '3' received from session 'c0b7c8d3-9692-4fb6-80bd-b1f2b7628820'.
+[2023-11-16 00:36:45Z INFO Runner] Received job message of length 26121 from service, with hash '24ef9144f11fad9a3483ae0ccbcad26fc0010541c54f10477a3bc470c947c7ae'
+[2023-11-16 00:36:45Z INFO JobDispatcher] Job request 9 for plan 37b2410d-22be-49e0-8e52-7dceb6a5ebd1 job 1688b4be-3760-56c4-0657-72178d884855 received.
+[2023-11-16 00:36:45Z INFO JobDispatcher] Pull OrchestrationId 37b2410d-22be-49e0-8e52-7dceb6a5ebd1.build._10_x from JWT claims
+[2023-11-16 00:36:45Z INFO JobDispatcher] Job request 1688b4be-3760-56c4-0657-72178d884855 processed succeed.
+[2023-11-16 00:36:45Z INFO Terminal] WRITE LINE: 2023-11-16 00:36:45Z: Running job: build (10.x)
+[2023-11-16 00:36:45Z INFO JobDispatcher] Start renew job request 9 for job 1688b4be-3760-56c4-0657-72178d884855.
+[2023-11-16 00:36:45Z INFO JobDispatcher] Successfully renew job request 9, job is valid till 11/16/2023 12:46:45 AM
+[2023-11-16 00:36:45Z INFO HostContext] Well known directory 'Bin': 'C:\Users\clark\AndroidStudioProjects\device-access-codelab-web-app\actions-runner\bin'
+[2023-11-16 00:36:45Z INFO ProcessInvokerWrapper] Starting process:
+[2023-11-16 00:36:45Z INFO ProcessInvokerWrapper]   File name: 'C:\Users\clark\AndroidStudioProjects\device-access-codelab-web-app\actions-runner\bin\Runner.Worker.exe'
+[2023-11-16 00:36:45Z INFO ProcessInvokerWrapper]   Arguments: 'spawnclient 2684 3032'
+[2023-11-16 00:36:45Z INFO ProcessInvokerWrapper]   Working directory: 'C:\Users\clark\AndroidStudioProjects\device-access-codelab-web-app\actions-runner\bin'
+[2023-11-16 00:36:45Z INFO ProcessInvokerWrapper]   Require exit code zero: 'False'
+[2023-11-16 00:36:45Z INFO ProcessInvokerWrapper]   Encoding web name:  ; code page: ''
+[2023-11-16 00:36:45Z INFO ProcessInvokerWrapper]   Force kill process on cancellation: 'True'
+[2023-11-16 00:36:45Z INFO ProcessInvokerWrapper]   Redirected STDIN: 'False'
+[2023-11-16 00:36:45Z INFO ProcessInvokerWrapper]   Persist current code page: 'False'
+[2023-11-16 00:36:45Z INFO ProcessInvokerWrapper]   Keep redirected STDIN open: 'False'
+[2023-11-16 00:36:45Z INFO ProcessInvokerWrapper]   High priority process: 'True'
+[2023-11-16 00:36:45Z INFO ProcessInvokerWrapper] Process started with process id 18096, waiting for process exit.
+[2023-11-16 00:36:45Z INFO JobDispatcher] Send job request message to worker for job 1688b4be-3760-56c4-0657-72178d884855.
+[2023-11-16 00:36:45Z INFO ProcessChannel] Sending message of length 26121, with hash '24ef9144f11fad9a3483ae0ccbcad26fc0010541c54f10477a3bc470c947c7ae'
+[2023-11-16 00:36:46Z INFO JobNotification] Entering JobStarted Notification
+[2023-11-16 00:36:46Z INFO JobNotification] Entering StartMonitor
+[2023-11-16 00:37:45Z INFO JobDispatcher] Successfully renew job request 9, job is valid till 11/16/2023 12:47:45 AM
+[2023-11-16 00:38:29Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2023-11-16 00:38:29Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2023-11-16 00:38:29Z INFO ProcessInvokerWrapper] Finished process 18096 with exit code 100, and elapsed time 00:01:43.3131665.
+[2023-11-16 00:38:29Z INFO JobDispatcher] Worker finished for job 1688b4be-3760-56c4-0657-72178d884855. Code: 100
+[2023-11-16 00:38:29Z INFO JobDispatcher] finish job request for job 1688b4be-3760-56c4-0657-72178d884855 with result: Succeeded
+[2023-11-16 00:38:29Z INFO Terminal] WRITE LINE: 2023-11-16 00:38:29Z: Job build (10.x) completed with result: Succeeded
+[2023-11-16 00:38:29Z INFO JobDispatcher] Stop renew job request for job 1688b4be-3760-56c4-0657-72178d884855.
+[2023-11-16 00:38:29Z INFO JobDispatcher] job renew has been cancelled, stop renew job request 9.
+[2023-11-16 00:38:29Z INFO JobNotification] Entering JobCompleted Notification
+[2023-11-16 00:38:29Z INFO JobNotification] Entering EndMonitor
+[2023-11-16 00:47:09Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\clark\AndroidStudioProjects\device-access-codelab-web-app\actions-runner\.credentials_rsaparams
+[2023-11-16 00:47:09Z INFO MessageListener] Message '4' received from session 'c0b7c8d3-9692-4fb6-80bd-b1f2b7628820'.
+[2023-11-16 00:47:09Z INFO Runner] Received job message of length 26115 from service, with hash '08461480e7900e68a0538364acd4d495f2fe16fddbc45c87be0c531e7fbbd378'
+[2023-11-16 00:47:09Z INFO JobDispatcher] Job request 10 for plan 2edd56ab-c7be-49fa-8abf-931e36d0e65c job 1688b4be-3760-56c4-0657-72178d884855 received.
+[2023-11-16 00:47:09Z INFO JobDispatcher] Pull OrchestrationId 2edd56ab-c7be-49fa-8abf-931e36d0e65c.build._10_x from JWT claims
+[2023-11-16 00:47:09Z INFO JobDispatcher] Job request 1688b4be-3760-56c4-0657-72178d884855 processed succeed.
+[2023-11-16 00:47:09Z INFO Terminal] WRITE LINE: 2023-11-16 00:47:09Z: Running job: build (10.x)
+[2023-11-16 00:47:09Z INFO JobDispatcher] Start renew job request 10 for job 1688b4be-3760-56c4-0657-72178d884855.
+[2023-11-16 00:47:09Z INFO JobDispatcher] Successfully renew job request 10, job is valid till 11/16/2023 12:57:09 AM
+[2023-11-16 00:47:09Z INFO HostContext] Well known directory 'Bin': 'C:\Users\clark\AndroidStudioProjects\device-access-codelab-web-app\actions-runner\bin'
+[2023-11-16 00:47:09Z INFO ProcessInvokerWrapper] Starting process:
+[2023-11-16 00:47:09Z INFO ProcessInvokerWrapper]   File name: 'C:\Users\clark\AndroidStudioProjects\device-access-codelab-web-app\actions-runner\bin\Runner.Worker.exe'
+[2023-11-16 00:47:09Z INFO ProcessInvokerWrapper]   Arguments: 'spawnclient 2116 2988'
+[2023-11-16 00:47:09Z INFO ProcessInvokerWrapper]   Working directory: 'C:\Users\clark\AndroidStudioProjects\device-access-codelab-web-app\actions-runner\bin'
+[2023-11-16 00:47:09Z INFO ProcessInvokerWrapper]   Require exit code zero: 'False'
+[2023-11-16 00:47:09Z INFO ProcessInvokerWrapper]   Encoding web name:  ; code page: ''
+[2023-11-16 00:47:09Z INFO ProcessInvokerWrapper]   Force kill process on cancellation: 'True'
+[2023-11-16 00:47:09Z INFO ProcessInvokerWrapper]   Redirected STDIN: 'False'
+[2023-11-16 00:47:09Z INFO ProcessInvokerWrapper]   Persist current code page: 'False'
+[2023-11-16 00:47:09Z INFO ProcessInvokerWrapper]   Keep redirected STDIN open: 'False'
+[2023-11-16 00:47:09Z INFO ProcessInvokerWrapper]   High priority process: 'True'
+[2023-11-16 00:47:09Z INFO ProcessInvokerWrapper] Process started with process id 7732, waiting for process exit.
+[2023-11-16 00:47:09Z INFO JobDispatcher] Send job request message to worker for job 1688b4be-3760-56c4-0657-72178d884855.
+[2023-11-16 00:47:09Z INFO ProcessChannel] Sending message of length 26115, with hash '08461480e7900e68a0538364acd4d495f2fe16fddbc45c87be0c531e7fbbd378'
+[2023-11-16 00:47:10Z INFO JobNotification] Entering JobStarted Notification
+[2023-11-16 00:47:10Z INFO JobNotification] Entering StartMonitor
+[2023-11-16 00:48:10Z INFO JobDispatcher] Successfully renew job request 10, job is valid till 11/16/2023 12:58:09 AM
+[2023-11-16 00:48:40Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2023-11-16 00:48:40Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2023-11-16 00:48:41Z INFO ProcessInvokerWrapper] Finished process 7732 with exit code 100, and elapsed time 00:01:31.1033945.
+[2023-11-16 00:48:41Z INFO JobDispatcher] Worker finished for job 1688b4be-3760-56c4-0657-72178d884855. Code: 100
+[2023-11-16 00:48:41Z INFO JobDispatcher] finish job request for job 1688b4be-3760-56c4-0657-72178d884855 with result: Succeeded
+[2023-11-16 00:48:41Z INFO Terminal] WRITE LINE: 2023-11-16 00:48:41Z: Job build (10.x) completed with result: Succeeded
+[2023-11-16 00:48:41Z INFO JobDispatcher] Stop renew job request for job 1688b4be-3760-56c4-0657-72178d884855.
+[2023-11-16 00:48:41Z INFO JobDispatcher] job renew has been cancelled, stop renew job request 10.
+[2023-11-16 00:48:41Z INFO JobNotification] Entering JobCompleted Notification
+[2023-11-16 00:48:41Z INFO JobNotification] Entering EndMonitor
+[2023-11-16 00:50:43Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\clark\AndroidStudioProjects\device-access-codelab-web-app\actions-runner\.credentials_rsaparams
+[2023-11-16 00:50:43Z INFO MessageListener] Message '5' received from session 'c0b7c8d3-9692-4fb6-80bd-b1f2b7628820'.
+[2023-11-16 00:50:43Z INFO Runner] Received job message of length 26115 from service, with hash 'affcd127cd31f5272165e756ac6bc51da345ac5be2ade1c1bdf0d90f6edeedbc'
+[2023-11-16 00:50:43Z INFO JobDispatcher] Job request 11 for plan 96ecf290-f443-4774-958d-e325c7134a0c job 1688b4be-3760-56c4-0657-72178d884855 received.
+[2023-11-16 00:50:43Z INFO JobDispatcher] Pull OrchestrationId 96ecf290-f443-4774-958d-e325c7134a0c.build._10_x from JWT claims
+[2023-11-16 00:50:43Z INFO JobDispatcher] Job request 1688b4be-3760-56c4-0657-72178d884855 processed succeed.
+[2023-11-16 00:50:43Z INFO Terminal] WRITE LINE: 2023-11-16 00:50:43Z: Running job: build (10.x)
+[2023-11-16 00:50:43Z INFO JobDispatcher] Start renew job request 11 for job 1688b4be-3760-56c4-0657-72178d884855.
+[2023-11-16 00:50:43Z INFO JobDispatcher] Successfully renew job request 11, job is valid till 11/16/2023 1:00:42 AM
+[2023-11-16 00:50:43Z INFO HostContext] Well known directory 'Bin': 'C:\Users\clark\AndroidStudioProjects\device-access-codelab-web-app\actions-runner\bin'
+[2023-11-16 00:50:43Z INFO ProcessInvokerWrapper] Starting process:
+[2023-11-16 00:50:43Z INFO ProcessInvokerWrapper]   File name: 'C:\Users\clark\AndroidStudioProjects\device-access-codelab-web-app\actions-runner\bin\Runner.Worker.exe'
+[2023-11-16 00:50:43Z INFO ProcessInvokerWrapper]   Arguments: 'spawnclient 3048 2776'
+[2023-11-16 00:50:43Z INFO ProcessInvokerWrapper]   Working directory: 'C:\Users\clark\AndroidStudioProjects\device-access-codelab-web-app\actions-runner\bin'
+[2023-11-16 00:50:43Z INFO ProcessInvokerWrapper]   Require exit code zero: 'False'
+[2023-11-16 00:50:43Z INFO ProcessInvokerWrapper]   Encoding web name:  ; code page: ''
+[2023-11-16 00:50:43Z INFO ProcessInvokerWrapper]   Force kill process on cancellation: 'True'
+[2023-11-16 00:50:43Z INFO ProcessInvokerWrapper]   Redirected STDIN: 'False'
+[2023-11-16 00:50:43Z INFO ProcessInvokerWrapper]   Persist current code page: 'False'
+[2023-11-16 00:50:43Z INFO ProcessInvokerWrapper]   Keep redirected STDIN open: 'False'
+[2023-11-16 00:50:43Z INFO ProcessInvokerWrapper]   High priority process: 'True'
+[2023-11-16 00:50:43Z INFO ProcessInvokerWrapper] Process started with process id 26880, waiting for process exit.
+[2023-11-16 00:50:43Z INFO JobDispatcher] Send job request message to worker for job 1688b4be-3760-56c4-0657-72178d884855.
+[2023-11-16 00:50:43Z INFO ProcessChannel] Sending message of length 26115, with hash 'affcd127cd31f5272165e756ac6bc51da345ac5be2ade1c1bdf0d90f6edeedbc'
+[2023-11-16 00:50:44Z INFO JobNotification] Entering JobStarted Notification
+[2023-11-16 00:50:44Z INFO JobNotification] Entering StartMonitor
+[2023-11-16 00:51:43Z INFO JobDispatcher] Successfully renew job request 11, job is valid till 11/16/2023 1:01:43 AM
+[2023-11-16 00:52:15Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2023-11-16 00:52:15Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2023-11-16 00:52:15Z INFO ProcessInvokerWrapper] Finished process 26880 with exit code 100, and elapsed time 00:01:32.0872037.
+[2023-11-16 00:52:15Z INFO JobDispatcher] Worker finished for job 1688b4be-3760-56c4-0657-72178d884855. Code: 100
+[2023-11-16 00:52:15Z INFO JobDispatcher] finish job request for job 1688b4be-3760-56c4-0657-72178d884855 with result: Succeeded
+[2023-11-16 00:52:15Z INFO Terminal] WRITE LINE: 2023-11-16 00:52:15Z: Job build (10.x) completed with result: Succeeded
+[2023-11-16 00:52:15Z INFO JobDispatcher] Stop renew job request for job 1688b4be-3760-56c4-0657-72178d884855.
+[2023-11-16 00:52:15Z INFO JobDispatcher] job renew has been cancelled, stop renew job request 11.
+[2023-11-16 00:52:15Z INFO JobNotification] Entering JobCompleted Notification
+[2023-11-16 00:52:15Z INFO JobNotification] Entering EndMonitor
+[2023-11-16 01:18:19Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\clark\AndroidStudioProjects\device-access-codelab-web-app\actions-runner\.credentials_rsaparams
+[2023-11-16 01:18:19Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2023-11-16 01:20:50Z INFO MessageListener] No message retrieved from session 'c0b7c8d3-9692-4fb6-80bd-b1f2b7628820' within last 30 minutes.
+[2023-11-16 01:50:55Z INFO MessageListener] No message retrieved from session 'c0b7c8d3-9692-4fb6-80bd-b1f2b7628820' within last 30 minutes.
+[2023-11-16 02:13:29Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\clark\AndroidStudioProjects\device-access-codelab-web-app\actions-runner\.credentials_rsaparams
+[2023-11-16 02:13:29Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2023-11-16 02:21:01Z INFO MessageListener] No message retrieved from session 'c0b7c8d3-9692-4fb6-80bd-b1f2b7628820' within last 30 minutes.
+[2023-11-16 02:51:06Z INFO MessageListener] No message retrieved from session 'c0b7c8d3-9692-4fb6-80bd-b1f2b7628820' within last 30 minutes.
+[2023-11-16 03:08:40Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\clark\AndroidStudioProjects\device-access-codelab-web-app\actions-runner\.credentials_rsaparams
+[2023-11-16 03:08:40Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2023-11-16 03:21:12Z INFO MessageListener] No message retrieved from session 'c0b7c8d3-9692-4fb6-80bd-b1f2b7628820' within last 30 minutes.
+[2023-11-16 03:51:18Z INFO MessageListener] No message retrieved from session 'c0b7c8d3-9692-4fb6-80bd-b1f2b7628820' within last 30 minutes.
+[2023-11-16 04:03:50Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\clark\AndroidStudioProjects\device-access-codelab-web-app\actions-runner\.credentials_rsaparams
+[2023-11-16 04:03:51Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2023-11-16 04:21:24Z INFO MessageListener] No message retrieved from session 'c0b7c8d3-9692-4fb6-80bd-b1f2b7628820' within last 30 minutes.
+[2023-11-16 04:51:30Z INFO MessageListener] No message retrieved from session 'c0b7c8d3-9692-4fb6-80bd-b1f2b7628820' within last 30 minutes.
+[2023-11-16 04:59:01Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\clark\AndroidStudioProjects\device-access-codelab-web-app\actions-runner\.credentials_rsaparams
+[2023-11-16 04:59:01Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2023-11-16 05:21:36Z INFO MessageListener] No message retrieved from session 'c0b7c8d3-9692-4fb6-80bd-b1f2b7628820' within last 30 minutes.
+[2023-11-16 05:51:41Z INFO MessageListener] No message retrieved from session 'c0b7c8d3-9692-4fb6-80bd-b1f2b7628820' within last 30 minutes.
+[2023-11-16 05:54:12Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\clark\AndroidStudioProjects\device-access-codelab-web-app\actions-runner\.credentials_rsaparams
+[2023-11-16 05:54:12Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2023-11-16 06:21:47Z INFO MessageListener] No message retrieved from session 'c0b7c8d3-9692-4fb6-80bd-b1f2b7628820' within last 30 minutes.
+[2023-11-16 06:49:23Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\clark\AndroidStudioProjects\device-access-codelab-web-app\actions-runner\.credentials_rsaparams
+[2023-11-16 06:49:23Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2023-11-16 06:51:53Z INFO MessageListener] No message retrieved from session 'c0b7c8d3-9692-4fb6-80bd-b1f2b7628820' within last 30 minutes.
+[2023-11-16 07:21:59Z INFO MessageListener] No message retrieved from session 'c0b7c8d3-9692-4fb6-80bd-b1f2b7628820' within last 30 minutes.
+[2023-11-16 07:44:33Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\clark\AndroidStudioProjects\device-access-codelab-web-app\actions-runner\.credentials_rsaparams
+[2023-11-16 07:44:33Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2023-11-16 07:52:05Z INFO MessageListener] No message retrieved from session 'c0b7c8d3-9692-4fb6-80bd-b1f2b7628820' within last 30 minutes.
+[2023-11-16 08:10:56Z INFO HostContext] Runner will be shutdown for UserCancelled
+[2023-11-16 08:10:56Z WARN GitHubActionsService] GET request to https://pipelinesghubeus5.actions.githubusercontent.com/2gCgI88K8a1MoGKxzctIDkkvvfw0s7kdlkDpCy0J6Ynajzs0li/_apis/distributedtask/pools/1/messages?sessionId=c0b7c8d3-9692-4fb6-80bd-b1f2b7628820&lastMessageId=5&status=Online&runnerVersion=2.311.0&os=Windows&architecture=X64 has been cancelled.
+[2023-11-16 08:10:56Z INFO MessageListener] Get next message has been cancelled.
+[2023-11-16 08:10:56Z INFO JobDispatcher] Shutting down JobDispatcher. Make sure all WorkerDispatcher has finished.
+[2023-11-16 08:10:56Z INFO JobDispatcher] Ensure WorkerDispatcher for job 1688b4be-3760-56c4-0657-72178d884855 run to finish, cancel any running job.
+[2023-11-16 08:10:56Z INFO JobDispatcher] Job request 1688b4be-3760-56c4-0657-72178d884855 processed succeed.
+[2023-11-16 08:10:56Z INFO Listener] Runner execution been cancelled.
